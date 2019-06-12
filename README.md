@@ -18,8 +18,9 @@
 
 ## 优秀博客
 > 很多时间都会浪费、遇见对的人才能做对的事
-- PHP大牛 [鸟哥 惠新宸](http://www.laruence.com/)
+- [许雪里](http://www.xuxueli.com/)
+- [鸟哥 惠新宸](http://www.laruence.com/)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
-- Vue.js作者 [尤雨溪](https://blog.evanyou.me/)
+- [尤雨溪](https://blog.evanyou.me/)
 - [现代简明魔法](http://www.nowamagic.net/)
 - [酷壳](https://coolshell.cn/)
