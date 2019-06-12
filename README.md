@@ -12,7 +12,7 @@
 ## 好站推荐
 > 很多好的东西感觉眼前一亮、想见恨晚
 - 大牛🐮课程 [极客时间](https://time.geekbang.org/)
-- 算法题库 & 竞赛 [力扣-leetcode](https://leetcode-cn.com/)
+- 算法题库 & 竞赛🏆 [力扣-leetcode](https://leetcode-cn.com/)
 - Mac软件工具 [麦氪派 || 爱情守望者](https://www.waitsun.com/)
 - 产品原型工具 [磨刀](https://modao.cc/)
 
