@@ -20,6 +20,7 @@
 - 算法题库 & 竞赛🏆 [力扣-leetcode](https://leetcode-cn.com/)
 - Mac软件工具 [麦氪派 || 爱情守望者](https://www.waitsun.com/)
 - 产品原型工具 [磨刀](https://modao.cc/)
+- 
 
 
 ### 优秀博客 (排名不分前后)
@@ -37,6 +38,7 @@
 - 阿里技术 [阿里巴巴](https://102.alibaba.com/)
 - 美团技术 [美团](https://tech.meituan.com/)
 - 京东技术 [京东](http://jdtech.jd.com)
+- 七牛云博客 [七牛云](https://blog.qiniu.com/archives/all)
 - [腾讯CDC](https://cdc.tencent.com/)
 - [京东JDC](http://jdc.jd.com/)
 - [淘宝FED](http://taobaofed.org/)
