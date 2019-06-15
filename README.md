@@ -10,8 +10,11 @@
 
 - [php](./php/index.md)  :point_left: 点击有更多收获 :tada::gift:
 - [golang](./golang/index.md)  :point_left: 点击有更多收获 :tada::gift:
-- [vue]()  :point_left: 点击有更多收获 :tada::gift:
+- [vue]()
 - [docker](./docker/index.md)  :point_left: 点击有更多收获 :tada::gift:
+- [服务器集合](./servers/index.md)
+- [数据库集合](./databases/index.md)
+
 
 ### 好站推荐 (排名不分前后)
 > 很多好的东西感觉眼前一亮、想见恨晚
