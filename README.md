@@ -7,11 +7,12 @@
 
 ### 基本 & 工具 (排名不分前后)
 > 工欲善其事必先利其器
-
+- [java](./java/index.md) :point_left: 点击有更多收获 :tada::gift:
 - [php](./php/index.md)  :point_left: 点击有更多收获 :tada::gift:
 - [golang](./golang/index.md)  :point_left: 点击有更多收获 :tada::gift:
+- [javascript](./javascript/index.md)
 - [vue]()
-- [docker](./docker/index.md)  :point_left: 点击有更多收获 :tada::gift:
+- [系统](./docker/index.md)  :point_left: 点击有更多收获 :tada::gift:
 - [服务器集合](./servers/index.md)
 - [数据库集合](./databases/index.md)
 
