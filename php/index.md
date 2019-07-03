@@ -5,3 +5,4 @@
 - Swoole是一个面向生产环境的 PHP 异步网络通信引擎 [swoole](https://www.swoole.com/)
 - [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)
 - [简明现代php魔法](http://www.nowamagic.net/librarys/books/contents/php)
+- [laravel 扩展包教程](https://learnku.com/courses/laravel-package/solving-cross-domain-problems-cors-barryvdhlaravel-cors/2026)
