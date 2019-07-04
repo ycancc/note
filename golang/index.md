@@ -9,7 +9,7 @@
 - [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
 - [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 - [Go语言圣经](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)
-
+- [面向信仰开发](https://draveness.me/)
 
 #### 开源书籍
 
