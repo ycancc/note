@@ -10,6 +10,7 @@
 - [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 - [Go语言圣经](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)
 - [面向信仰开发](https://draveness.me/)
+- [jinzhu](https://github.com/jinzhu)
 
 #### 开源书籍
 
