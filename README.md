@@ -26,6 +26,7 @@
 - 产品原型工具 [磨刀](https://modao.cc/)
 - 名牌大学课堂 [中国大学MOOC](https://www.icourse163.org/)
 - coolshell [酷壳](https://coolshell.cn/)
+- 极客时间 [高手云集](https://time.geekbang.org/)
 
 
 ### 优秀博客 (排名不分前后)
